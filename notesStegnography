@@ -1,0 +1,24 @@
+steghide embed -cf (filename) -ef (file to be hidden)
+steghide extract -sf (filename)
+
+IMage - 3D ARRAy, of RGB
+to hide message,we usually flip least significant bit so that anomaly in size does not occur
+
+hexadump- converts to hexadecimal(hd)
+
+strings- Reads the garbage , shows the readable information
+
+garykessler.net/library/file_sigs.html - TO CHECK BINBOP
+
+go to header.png - open with ghex and change the bits to make it png AGAIN . Then it can be recorrected.       
+
+binwalk- info deta hai
+foremost- files ko seperate karta
+
+https.//musiclab.chromeexperiments.com/spectrogram - You can check spectrogran of any audio file
+
+find morse code
+
+decode it then by yourself
+
+
